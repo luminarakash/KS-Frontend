@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import WImg from "../../assets/p1.png";
+import WImg from "../../assets/P1.png";
 import Navbar from "./Header";
 
 const schemes = [
