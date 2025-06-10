@@ -10,7 +10,7 @@ import Navbar from "./Header";
 import WImg from "../../assets/wlcm.svg";
 
 function AIAssistant() {
-  const [prompt, setPrompt] = useState(`मेरी भैंस ने दूध देना कम कर दिया है`)
+  const [prompt, setPrompt] = useState(`मेरी भैंस ने दूध देना कम कर दिया है `)
   const [response, setResponse] = useState(``)
   const [loading, setLoading] = useState(false)
 
